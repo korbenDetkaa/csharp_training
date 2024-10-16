@@ -12,3 +12,4 @@ namespace Address_book_tests
         }
     }
 }
+test
